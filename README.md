@@ -1,7 +1,7 @@
 ### Hi I'm Eya👋
 
 📊 Data Analyst Engineer passionate about sharing insights 🚀 </br>
-👩‍💻 Interning as a Computer Science student at CF Maier Itap, Nabeul </br>
+👩‍💻 Data Analyst at CF Maier Itap, Nabeul </br>
 💡 Love diving into Data and Artificial Intelligence </br>
 🔍 Currently seeking exciting opportunities as a Data Analyst! </br>
 
